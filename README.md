@@ -1,1 +1,1 @@
-# traktir_side
+# traktir bang
